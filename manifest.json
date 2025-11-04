@@ -1,0 +1,18 @@
+{
+  "short_name": "Shadow Coin",
+  "name": "Shadow Coin Mainframe",
+  "description": "An interactive blockchain simulator for Shadow Coin (SHDW). Experience a self-contained cryptocurrency with life-mining, a fixed supply of 100 million tokens, and a time-locked P2P network.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0A0C1E",
+  "background_color": "#0A0C1E"
+}
